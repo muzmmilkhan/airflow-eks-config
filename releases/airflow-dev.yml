@@ -32,7 +32,7 @@ spec:
         enabled: false
       gitSych:
         enabled: true
-        repo: git@github.com:muzmmilkhan/airflow-dags.git
+        repo: https://github.com/muzmmilkhan/airflow-dags.git
         branch: master
         maxFailures: 0
         subPath: ""
